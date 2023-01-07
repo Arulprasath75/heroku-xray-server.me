@@ -1,6 +1,5 @@
 {
     "name": "heroku-xray-server.me",
-    "version": "1.0.0",
     "description": "",
     "scripts": {
         "build": "echo \"No build specified\" && exit 1",
